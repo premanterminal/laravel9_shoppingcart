@@ -49,7 +49,7 @@
                                       <input type="hidden" name="id" value="{{ $item->id}}" >
                                     <input type="number" name="quantity" value="{{ $item->quantity }}" 
                                     class="w-6 text-center bg-gray-300" />
-                                    <button type="submit" class="px-2 pb-2 ml-2 text-white bg-blue-500">update</button>
+                                    <button type="submit" class="px-2 pb-2 ml-2 text-white bg-green-500">+</button>
                                     </form>
                                   </div>
                                 </div>
